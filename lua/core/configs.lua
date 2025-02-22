@@ -19,4 +19,4 @@ vim.opt.scrolloff = 12
 vim.opt.wrap = false
 
 -- Theme
-vim.cmd.colorscheme "catppuccin"
+vim.cmd.colorscheme "catppuccin-macchiato"
