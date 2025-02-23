@@ -3,6 +3,7 @@ return {
 	"catppuccin/nvim",
 	config = function()
 		require('catppuccin').setup({
+			background_transparent = true
 		})
 	end,
 	name = "catppuccin", 
