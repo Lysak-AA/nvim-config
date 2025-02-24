@@ -1,4 +1,4 @@
-return { 
+return {
 	{
 	"catppuccin/nvim",
 	config = function()
@@ -6,7 +6,7 @@ return {
 			background_transparent = true
 		})
 	end,
-	name = "catppuccin", 
+	name = "catppuccin",
 	priority = 1000
 }
 }
